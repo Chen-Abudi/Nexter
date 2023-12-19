@@ -6,8 +6,8 @@
 
 - Intro
 - Technologies & Techniques
-- Possible Improvements
 - Deployed Project
+- <!-- - Possible Improvements -->
 
 ---
 
@@ -24,14 +24,14 @@ A landing page showcasing realtors of luxury homes app.
 - BEM Methodology
 - Grid Techniques
 
-## 🔧 Possible Improvements:
+<!-- ## 🔧 Possible Improvements:
 
-- [ ] Add functionality to the page and make it more dynamic
-
----
-
-## ✨ Deployed Project:
+- [ ] Add functionality to the page and make it more dynamic -->
 
 ---
+
+<!-- ## ✨ Deployed Project:
+
+--- -->
 
 ### **_`Shoutout to Jonas Schmedtmann for this incredible design with the Advanced CSS + Sass techniques. Mahalo & Superb! All credits go to Jonas Schmedtmann who Designed this landing page.`_**
