@@ -6,8 +6,8 @@
 
 - Intro
 - Technologies & Techniques
-- Possible Improvements
 - Deployed Project
+<!-- - Possible Improvements -->
 
 ---
 
@@ -25,9 +25,9 @@ A landing page showcasing realtors of luxury homes app.
 - Grid Techniques
 - Responsive Layout
 
-## 🔧 Possible Improvements:
+<!-- ## 🔧 Possible Improvements:
 
-- [ ] Add functionality to the page and make it more dynamic
+- [ ] Add functionality to the page and make it more dynamic -->
 
 ---
 
