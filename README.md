@@ -23,6 +23,7 @@ A landing page showcasing realtors of luxury homes app.
 - HTML5
 - BEM Methodology
 - Grid Techniques
+- Responsive Layout
 
 ## 🔧 Possible Improvements:
 
