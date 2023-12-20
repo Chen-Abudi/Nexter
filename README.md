@@ -6,8 +6,8 @@
 
 - Intro
 - Technologies & Techniques
-- Deployed Project
-<!-- - Possible Improvements -->
+  <!-- - Possible Improvements -->
+  <!-- - Deployed Project -->
 
 ---
 
@@ -31,8 +31,8 @@ A landing page showcasing realtors of luxury homes app.
 
 ---
 
-## ✨ Deployed Project:
+<!-- ## ✨ Deployed Project:
 
----
+--- -->
 
 ### **_`Shoutout to Jonas Schmedtmann for this incredible design with the Advanced CSS + Sass techniques. Mahalo & Superb! All credits go to Jonas Schmedtmann who Designed this landing page.`_**
