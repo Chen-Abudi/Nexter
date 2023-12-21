@@ -33,6 +33,8 @@ A landing page showcasing realtors of luxury homes app.
 
 ## ✨ Deployed Project:
 
+Visit the **Live Project** on `GitHub Pages`[&#128073;&#127997; **HERE !**](https://chen-abudi.github.io/nexter/)
+
 ---
 
 ### **_`Shoutout to Jonas Schmedtmann for this incredible design with the Advanced CSS + Sass techniques. Mahalo & Superb! All credits go to Jonas Schmedtmann who Designed this landing page.`_**
